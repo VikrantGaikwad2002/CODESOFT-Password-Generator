@@ -8,7 +8,6 @@ This is a simple Password Generator application built using Tkinter in Python. T
 ## Table of Contents
 - [Features](#features)
 - [How to Use](#how-to-use)
-- [Installation](#installation)
 - [Requirements](#requirements)
   
 
@@ -34,3 +33,7 @@ This is a simple Password Generator application built using Tkinter in Python. T
 
 5. **Copy the Password:**
    - The generated password is displayed in the result box. You can copy it for your use.
+
+## Requirements
+Python 3.x
+Tkinter library (usually included with Python)
